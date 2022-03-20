@@ -6,6 +6,8 @@ import Users from '../components/common/Users';
 import UserDetails from '../components/user/UserDetails';
 
 import About from '../pages/About';
+
+
 import Contact from '../pages/Contact';
 import Home from '../pages/Home'
 import NoPage from '../pages/NoPage';
@@ -13,6 +15,9 @@ import Product from '../pages/Product';
 import Profile from '../pages/Profile';
 import MenProduct from '../Product/MenProduct';
 import WomenProduct from '../Product/WomenProduct';
+
+// const LazyAbout = React.lazy(() => import('../pages/About'))
+
 
 const RouteLists = () => {
     return (

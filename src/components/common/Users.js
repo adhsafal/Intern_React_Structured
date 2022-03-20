@@ -46,6 +46,7 @@ const User = () => {
             {
                 showActiveUsers ? <h2>Active Users</h2> : <h2>Showing all users</h2>
             }
+
         </HomeLayout>
     )
 }

@@ -1,4 +1,3 @@
-import './App.css';
 import RouteLists from './navigation/RouteLists';
 
 
