@@ -1,9 +1,12 @@
 import './App.css';
+import RouteLists from './navigation/RouteLists';
+
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <>
+      <RouteLists />
+    </>
   );
 }
 

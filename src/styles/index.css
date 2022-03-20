@@ -1,0 +1,8 @@
+.navbar {
+	display: flex;
+	justify-content: space-around;
+}
+
+.productNav a {
+	margin: 20px;
+}
